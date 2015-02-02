@@ -13,7 +13,7 @@ composer require trntv/knowledge
 use knowledge\Geography;
 use knowledge\Science;
 
-echo EQUATOR_LENGTH_IN_METERS / SPEED_OF_LIGHT_IN_METERS; // 0,133451866 seconds
+$aroundTheWorld = EQUATOR_LENGTH_IN_METERS / SPEED_OF_LIGHT_IN_METERS; // 0,133451866 seconds
 ```
 
 
