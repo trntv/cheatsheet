@@ -1,0 +1,18 @@
+{
+  "name": "trntv/knowledge",
+  "type": "library",
+  "description": "A collection of knowledge about the world described in constants",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Eugene Terentev",
+      "email": "eugene@terentev.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "knowledge\\": "src/"
+    }
+  }
+}
