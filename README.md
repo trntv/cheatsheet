@@ -13,7 +13,7 @@ composer require trntv/cheatsheet
 use cheatsheet\Geography;
 use cheatsheet\Science;
 
-$aroundTheWorld = EQUATOR_LENGTH / SPEED_OF_LIGHT; // 0,133451866 seconds
+$aroundTheWorld = Geography::EQUATOR_LENGTH / Science::SPEED_OF_LIGHT; // 0,133451866 seconds
 ```
 
 
