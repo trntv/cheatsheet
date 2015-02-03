@@ -2,18 +2,18 @@
 
 -
 
-Collection of useful knowledge about the world that might be used somewhere in your code. 
+Cheat sheet of useful knowledge about the world that might be used somewhere in your code. 
 ## INSTALLATION
 ```
-composer require trntv/knowledge
+composer require trntv/cheatsheet
 ```
 
 ## USAGE
 ```
-use knowledge\Geography;
-use knowledge\Science;
+use cheatsheet\Geography;
+use cheatsheet\Science;
 
-$aroundTheWorld = EQUATOR_LENGTH_IN_METERS / SPEED_OF_LIGHT_IN_METERS; // 0,133451866 seconds
+$aroundTheWorld = EQUATOR_LENGTH / SPEED_OF_LIGHT; // 0,133451866 seconds
 ```
 
 
