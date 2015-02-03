@@ -1,19 +1,17 @@
 <?php
-namespace knowledge;
+namespace cheatsheet;
 
 /**
  * Class Math
  * @author Eugene Terentev <eugene@terentev.net>
- * @package knowledge
+ * @package cheatsheet
  */
 class Math {
     /**
-     * @param bool $invert
      * @return float
      */
-    public static function goldenRatio($invert = false)
+    public static function goldenRatio()
     {
-        $goldenRatio = ( 1 + sqrt(5) ) / 2;
-        return $invert ? 1 / $goldenRatio : $goldenRatio;
+        return ( 1 + sqrt(5) ) / 2;
     }
 }

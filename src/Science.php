@@ -1,6 +1,15 @@
 <?php
-namespace knowledge;
+namespace cheatsheet;
 
+/**
+ * Class Science
+ * @author Eugene Terentev <eugene@terentev.net>
+ * @package cheatsheet
+ */
 class Science {
-    const SPEED_OF_LIGHT_IN_METERS = 299792458;
+    /**
+     * Speed of light in meters
+     * @var int
+     */
+    const SPEED_OF_LIGHT = 299792458;
 }

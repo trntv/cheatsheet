@@ -1,10 +1,10 @@
 <?php
-namespace knowledge;
+namespace cheatsheet;
 
 /**
  * Class Measurement
  * @author Eugene Terentev <eugene@terentev.net>
- * @package knowledge
+ * @package cheatsheet
  */
 class Measurement {
     /**

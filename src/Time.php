@@ -1,6 +1,6 @@
 <?php
 
-namespace knowledge;
+namespace cheatsheet;
 
 /**
  * @author Eugene Terentev <eugene@terentev.net>
