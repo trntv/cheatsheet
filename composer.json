@@ -2,7 +2,6 @@
   "name": "trntv/cheatsheet",
   "type": "library",
   "description": "Cheat sheet of knowledge you may use in your code",
-  "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {

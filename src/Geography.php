@@ -16,5 +16,10 @@ class Geography {
      * Earth radius in meters
      * @var integer
      */
-    const EARTH_RADIUS_IN_METERS = 6378137;
+    const EARTH_RADIUS = 6378137;
+    /**
+     * Earth total square in square kilometers
+     * @var int
+     */
+    const EARTH_TOTAL_SQUARE = 510072000;
 }
